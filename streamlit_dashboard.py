@@ -181,7 +181,7 @@ The correlation coefficient by itself does not confirm if the relationship obser
 In essence, the correlation coefficient revealed a slight positive relationship between the stock price and fatalities, yet this is a weak link and should be interpreted with caution.
  The stock market is a complex ecosystem, and Tesla’s valuation is contingent upon a host of factors, just as the occurrence of fatalities has its independent determinants.
 
-Final Thoughts
+
 As I conclude this phase of our data-driven exploration into Tesla’s stock performance and reported fatalities, my journey has been as enlightening as it has been intricate. 
 I’ve unearthed a tenuous connection between stock prices and safety incidents, a relationship that speaks to the multifaceted nature of market forces and public perception.
 
