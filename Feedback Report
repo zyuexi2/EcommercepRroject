@@ -1,0 +1,34 @@
+Feedback Report
+
+To Connor Thompson: 
+Blog 1: 
+Your explanation about sourcing the data was quite clear and really helped me grasp the context of the issue. I'm also impressed that you did the calculations on your own – that's pretty awesome. If possible, I think it would be interesting to see a brief overview of your calculation methods in this paper. Also, maybe including a picture of a BYU playing game could add a nice visual touch to this blog.
+Blog2: 
+Your blog is awesome! The graphs are great and you have to explain the graph and give out your opinions. My only suggestion will be for your conclusion part, you mentioned about what you learned from this experience. Maybe also add some thoughts on how we can use this analysis for, like help coach to improve strategies or some how.
+Streamlit App:
+This is awesome dashboard. I think it's really fun to have some interaction with the data. It worked really well and you also provide your blog reference.  TBH, I can't think of anything you should change right now.
+
+To Trevor Bingham
+Blog1: 
+I like you explained really well about how you find data and try to scrape it from websites, also you have links to direct people to different pages if we want to find out more. My suggestion will be add a picture maybe for better visualization even it's just about how you find the data. 
+Blog2: 
+I really like this blog, the heat map is really awesome. I saw that total_values has the highest correlation with unit_count, but the second graph is talking more specifically about different types of housing. Maybe do a little bit more explain on the differences between them? For example, I don't know what's the difference between single_family and single_family_adu. 
+Streamlit App:
+This is really well down, a lot of interaction and explanations. I can't think of anything else.
+
+Feedback received from Connor Thompson and Trevor Bingham
+From Conner Thompson:
+Blog 1: 
+I think the post is really good, everything is explained well and is interesting
+Blog 2:
+I think this one is also good, I liked how you talked about the distinction between correlation and causation.  It would be interesting to see a p-value, but that might not fit in this project Also, for both of them I would suggest switching from "we" to "I", since this is a project, you're doing individually.
+Streamlit: It looks good!  The one thing I'd suggest is making the first two bar plots interactive since I think everything is supposed to be.
+From Trevor Bingham
+Blog 1: Overall, I think the blog post is really good, although I do feel you repeat yourself about some of the ethical aspects a few times, so maybe go through and try to limit that some. But other than that, it was very clear and interesting.
+
+Blog 2: I really like how you laid out the information, it flowed very well, and was interesting to read. I did notice really just one thing I would consider changing. There are a few unnecessary parts, like in the description of the first two charts, you reference the year 2021 and the United States by the tallest bar and longest bar, and I feel like that is unnecessary, as you are already pointing out they are the highest values, and most people understand bar charts well enough that that distinction is maybe unnecessary.
+
+Streamlit: I think this is really well done, the visualizations and interactive elements go really well together. I didn't really notice anything to change, except maybe see if you can break the text at the bottom up somehow, it is a bit of a large section of text to read through, and the main point of the dashboard should be the visual and interactive elements.
+
+Changes I made :
+ For the blogs, I transitioned from "we" to "I" throughout both pieces and eliminated repetitive sections, also re-arranging the paragraphs for better flow. Regarding Streamlit modifications, I segmented the reading texts at the bottom and introduced a feature to display the difference between Tesla's high and low stock prices. I opted not to alter the first two graphs as they already present information clearly, and I saw no benefit in making them interactive.
